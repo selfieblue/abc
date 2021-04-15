@@ -1,0 +1,21 @@
+[{
+    "name": "scb-ploy-demo1-sandbox-rds",
+    "metadata":     {
+        "db_endpoint": "abc:5432",
+        "db_engine": "postgres",
+        "engine_version": "12.3",
+        "db_port": "5432",
+        "vault_address": "https://abc.com",
+        "vault_secret_mountpoint": "secret/abc1"
+    }
+},{
+    "name": "scb-ploy-demo2-sandbox-rds",
+    "metadata":     {
+        "db_endpoint": "abc:5432",
+        "db_engine": "postgres",
+        "engine_version": "12.3",
+        "db_port": "5432",
+        "vault_address": "https://abc.com",
+        "vault_secret_mountpoint": "secret/abc1"
+    }
+}]
